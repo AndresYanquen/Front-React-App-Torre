@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AndresYanquen/Front-React-App-Torre/static/css/main.adb5b216.chunk.css",
+    "main.js": "/AndresYanquen/Front-React-App-Torre/static/js/main.5dd8535d.chunk.js",
+    "main.js.map": "/AndresYanquen/Front-React-App-Torre/static/js/main.5dd8535d.chunk.js.map",
+    "runtime-main.js": "/AndresYanquen/Front-React-App-Torre/static/js/runtime-main.d191c751.js",
+    "runtime-main.js.map": "/AndresYanquen/Front-React-App-Torre/static/js/runtime-main.d191c751.js.map",
+    "static/js/2.a102b09f.chunk.js": "/AndresYanquen/Front-React-App-Torre/static/js/2.a102b09f.chunk.js",
+    "static/js/2.a102b09f.chunk.js.map": "/AndresYanquen/Front-React-App-Torre/static/js/2.a102b09f.chunk.js.map",
+    "index.html": "/AndresYanquen/Front-React-App-Torre/index.html",
+    "static/css/main.adb5b216.chunk.css.map": "/AndresYanquen/Front-React-App-Torre/static/css/main.adb5b216.chunk.css.map",
+    "static/js/2.a102b09f.chunk.js.LICENSE.txt": "/AndresYanquen/Front-React-App-Torre/static/js/2.a102b09f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d191c751.js",
+    "static/js/2.a102b09f.chunk.js",
+    "static/css/main.adb5b216.chunk.css",
+    "static/js/main.5dd8535d.chunk.js"
+  ]
+}
